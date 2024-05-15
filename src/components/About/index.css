@@ -1,0 +1,26 @@
+.about-container {
+  min-height: 93vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-img {
+  width: 90px;
+}
+
+.about-text {
+  color: #171f46;
+  font-family: Roboto;
+  font-size: 30px;
+}
+
+.light-text {
+  color: #ffffff;
+}
+
+.background-dark {
+  background-color: #000000;
+}
